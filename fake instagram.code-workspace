@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../fake instagram"
+		},
+		{
+			"path": "../fake instagram2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fake instagram2"
+	}
+}
